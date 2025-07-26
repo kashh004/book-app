@@ -7,7 +7,7 @@ A full-stack **Book Management Application** with **pagination** and **sorting**
 
 ## **Live Demo**
 
-- **Frontend (Vercel):** [Book Management Frontend]([https://book-app-frontend-lnee3leyx-akash-n-s-projects.vercel.app](https://book-app-frontend-5l1w03orv-akash-n-s-projects.vercel.app/))  
+- **Frontend (Vercel):** [Book Management Frontend](https://book-app-frontend-5l1w03orv-akash-n-s-projects.vercel.app/)
 - **Backend (Render API):** [Books API](https://book-app-3hiu.onrender.com/books)  
 
 ---
