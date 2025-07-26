@@ -41,19 +41,19 @@ A full-stack **Book Management Application** with **pagination** and **sorting**
 ## **Project Structure**
 book-app/
 ├── backend/
-│   ├── server.js
-│   ├── package.json
-│   └── .env
+├── server.js
+├── package.json
+└── .env
 │
 └── frontend/
 ├── src/
-│   ├── App.jsx
-│   └── components/BooksList.jsx
+├── App.jsx
+└── components/BooksList.jsx
 ├── package.json
 └── vite.config.js
 ---
-MONGO_URI=mongodb+srv://akashngowda2004:6XiY6Htbz5IdIh6T@cluster0.nz99qzc.mongodb.net/books?retryWrites=true&w=majority
-PORT=4000
+MONGO_URI=(mongodb+srv://akashngowda2004:6XiY6Htbz5IdIh6T@cluster0.nz99qzc.mongodb.net/books?retryWrites=true&w=majority
+PORT=4000)
 ### Frontend Setup
 cd frontend
 npm install
