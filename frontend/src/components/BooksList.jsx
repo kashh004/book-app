@@ -11,7 +11,7 @@ const BooksList = () => {
 
   const fetchBooks = async () => {
     try {
-      const response = await axios.get("http://localhost:4000/books", {
+      const response = await axios.get("https://book-app-3hiu.onrender.com/books", {
         params: {
           page,
           page_size: pageSize,
